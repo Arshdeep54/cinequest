@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/temprepo.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/temprepo.github.io/static/js/main.010ed9aa.js",
+    "static/js/787.a6e75ec8.chunk.js": "/temprepo.github.io/static/js/787.a6e75ec8.chunk.js",
+    "static/media/logo.svg": "/temprepo.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/temprepo.github.io/index.html",
+    "main.f855e6bc.css.map": "/temprepo.github.io/static/css/main.f855e6bc.css.map",
+    "main.010ed9aa.js.map": "/temprepo.github.io/static/js/main.010ed9aa.js.map",
+    "787.a6e75ec8.chunk.js.map": "/temprepo.github.io/static/js/787.a6e75ec8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.010ed9aa.js"
+  ]
+}
