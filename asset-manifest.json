@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/cinequest/static/css/main.f978ab81.css",
-    "main.js": "/cinequest/static/js/main.89cd8e3d.js",
+    "main.js": "/cinequest/static/js/main.5351051a.js",
     "static/js/787.a6e75ec8.chunk.js": "/cinequest/static/js/787.a6e75ec8.chunk.js",
     "static/media/imdblogo.png": "/cinequest/static/media/imdblogo.8b13a62e34c8b6fe7f55.png",
     "static/media/logo.svg": "/cinequest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/cinequest/index.html",
     "main.f978ab81.css.map": "/cinequest/static/css/main.f978ab81.css.map",
-    "main.89cd8e3d.js.map": "/cinequest/static/js/main.89cd8e3d.js.map",
+    "main.5351051a.js.map": "/cinequest/static/js/main.5351051a.js.map",
     "787.a6e75ec8.chunk.js.map": "/cinequest/static/js/787.a6e75ec8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f978ab81.css",
-    "static/js/main.89cd8e3d.js"
+    "static/js/main.5351051a.js"
   ]
 }
